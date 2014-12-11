@@ -40,7 +40,7 @@ Installation
 6. Write example script:
   **test.csx**
   ```csharp
-  #!/usr/bin/env scriptcs_run
+  #!/usr/bin/env scriptcs_sh
   
   Console.WriteLine("Hello world");
   ```

@@ -3,7 +3,12 @@ ScriptCs.Shebang
 
 [Shebang](http://en.wikipedia.org/wiki/Shebang_(Unix)) support for [ScriptCs](http://scriptcs.net/)
 
-This will be useful for scripting with [ScriptCs](http://scriptcs.net/) on *nix systems.
+Module tells ScriptCs to ignore shebang line from parsing.
+
+Without this module but with shebang in .csx file, you will get syntax error.
+
+
+This module will be useful for scripting with [ScriptCs](http://scriptcs.net/) on *nix systems.
 
 Installation
 ------------

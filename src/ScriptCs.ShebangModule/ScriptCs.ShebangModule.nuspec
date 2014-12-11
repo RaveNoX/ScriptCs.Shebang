@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>Artur Kraev</authors>
+    <owners>Artur Kraev</owners>           
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes>First release</releaseNotes>
+    <copyright>Copyright 2014</copyright>
+    <tags>rolsyn csx script sciptcs shebang unix linux</tags>
+  </metadata>
+</package>
